@@ -1,4 +1,4 @@
-# Login application using JWT authentication
+# Full stack (MERN) Login application using JWT authentication
 
 ## After downloading project 
 `npm i` to install all dependencies
